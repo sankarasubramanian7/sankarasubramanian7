@@ -3,7 +3,7 @@
 
 
 ## Portfolio Website 
-[Website](https://portfolio-sankarasubramanian7s-projects.vercel.app/)
+[My Portfolio](https://my-portfolio-san.vercel.app/)
 
 
 
