@@ -1,12 +1,40 @@
 # 🌟 Hello, I'm Sankarasubramanian!
 I’m a passionate Full Stack Developer specializing in building responsive, high-performance web applications. My expertise lies in the MERN stack, along with solid experience in Java and Spring Boot for backend development. I enjoy tackling challenging problems, optimizing performance, and creating seamless user experiences.
 
+## 💼 What I Do
 
-## Portfolio Website 
+• Currently enhancing my backend skills with Spring Boot and Node.js.
+
+• Building full-stack applications that balance efficiency and user-friendliness.
+
+• Continuously learning and integrating modern development practices.
+
+## 🤝 I’m Open To Collaborating On:
+
+• Scalable web applications using React, Node.js, and Spring Boot.
+
+• Projects that require clean, maintainable code and innovative frontend designs. 
+
+## 📚 Currently Learning:
+
+• Advanced state management and performance optimization in React.
+
+• Microservices with Spring Boot and containerization with Docker.
+
+## 💬 Let’s Talk About:
+
+• Crafting beautiful, intuitive web applications with React and Tailwind CSS.
+
+• Building robust APIs with Node.js, Express, and Spring Boot.
+
+• Enhancing data management with MongoDB and MySQL.
+
+
+## 🌐 Portfolio Website 
 [My Portfolio](https://my-portfolio-san7.vercel.app/)
 
 
-# Tech Stack:
+# 💻 Tech Stack:
 
 ### Languages:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -46,7 +74,7 @@ I’m a passionate Full Stack Developer specializing in building responsive, hig
 ![Canva](https://img.shields.io/badge/canva-%23646CFF.svg?style=for-the-badge&logo=canva&logoColor=white)
 
 
-### Random Dev Quote
+### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
