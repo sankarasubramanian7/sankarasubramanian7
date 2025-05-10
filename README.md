@@ -14,7 +14,7 @@
 [My Portfolio](https://my-portfolio-san7.vercel.app/)
 
 
-# 💻 Tech Stack:
+# Tech Stack:
 
 ### Languages:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -54,13 +54,7 @@
 ![Canva](https://img.shields.io/badge/canva-%23646CFF.svg?style=for-the-badge&logo=canva&logoColor=white)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sankarasubramanian7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sankarasubramanian7&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sankarasubramanian7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-### ✍️ Random Dev Quote
+### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
