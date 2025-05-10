@@ -1,13 +1,5 @@
-# About Me:
-• Currently Working On: Building dynamic, responsive web applications using React and Spring Boot.
-
-• Looking to Collaborate On: Frontend and full-stack projects that enhance user experience and performance.
-
-• Seeking Help With: Advanced React patterns, state management, and performance optimization for large-scale applications.
-
-• Currently Learning: Deepening my knowledge in Node.js, Spring Boot, and React Native while improving web accessibility.
-
-• Ask Me About: React, JavaScript, Spring Boot, CSS-in-JS, and crafting clean, reusable components.
+# 🌟 Hello, I'm Sankarasubramanian!
+I’m a passionate Full Stack Developer specializing in building responsive, high-performance web applications. My expertise lies in the MERN stack, along with solid experience in Java and Spring Boot for backend development. I enjoy tackling challenging problems, optimizing performance, and creating seamless user experiences.
 
 
 ## Portfolio Website 
