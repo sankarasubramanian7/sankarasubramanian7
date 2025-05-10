@@ -1,5 +1,13 @@
-# 👨🏻‍💻 About Me:
-🔭 I’m currently working on: Building dynamic and responsive web applications using React.<br>👯 I’m looking to collaborate on: Frontend projects that push the boundaries of user experience and performance.<br>🤝 I’m looking for help with: Advanced React patterns, state management, and optimizing performance for large-scale applications.<br>🌱 I’m currently learning: Node.js, React Native, and improving accessibility in web design.<br>💬 Ask me about: React, JavaScript, CSS-in-JS, and crafting clean, reusable components.<br>⚡ Fun fact: I can style a pixel-perfect UI while catching up on the latest trends in frontend development!<br>
+# About Me:
+Currently Working On: Building dynamic, responsive web applications using React and Spring Boot.
+
+Looking to Collaborate On: Frontend and full-stack projects that enhance user experience and performance.
+
+Seeking Help With: Advanced React patterns, state management, and performance optimization for large-scale applications.
+
+Currently Learning: Deepening my knowledge in Node.js, Spring Boot, and React Native while improving web accessibility.
+
+Ask Me About: React, JavaScript, Spring Boot, CSS-in-JS, and crafting clean, reusable components.
 
 
 ## Portfolio Website 
