@@ -1,5 +1,5 @@
 # 🌟 Hello, I'm Sankarasubramanian!
-I’m a passionate Full Stack Developer specializing in building responsive, high-performance web applications. My expertise lies in the MERN stack, along with solid experience in Java and Spring Boot for backend development. I enjoy tackling challenging problems, optimizing performance, and creating seamless user experiences.
+Aspiring Full Stack Developer with a passion for building intuitive and high-performance web applications. Proficient in the MERN stack with a solid understanding of backend technologies, including Java and Spring Boot. Eager to leverage my skills in a professional environment to create meaningful, user-driven solutions.
 
 ## 💼 What I Do
 
