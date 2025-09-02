@@ -15,7 +15,7 @@ I'm a passionate **Full-Stack Developer** focused on building robust, scalable w
 ## 💻 Tech Stack
 
 ### Languages  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="25"/> ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
