@@ -52,7 +52,4 @@ I'm a passionate **Full-Stack Developer** focused on building robust, scalable w
 
 ---
 
-## ✍️ Dev Quote  
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 <!-- Proudly created with ❤️ by Sankarasubramanian -->
