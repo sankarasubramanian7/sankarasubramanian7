@@ -1,8 +1,8 @@
 # 🌟 Hello, I'm Sankarasubramanian!
 
-I'm a passionate **Full-Stack Developer** focused on building robust, scalable web applications using **Java**, **React**, **MySQL**, and **Spring Boot**. I love solving real-world problems through clean, maintainable code and seamless UI/UX.
+I'm a passionate Full-Stack & AI Developer focused on building scalable, intelligent applications using Python, FastAPI, Node.js, React, TypeScript, PostgreSQL, and modern AI technologies. I enjoy solving real-world problems through clean, maintainable code, robust APIs, and intuitive UI/UX
 
-> ✨ I also enjoy crafting beautiful mobile apps using **Flutter** — making ideas come to life across Android, iOS, and the Web.
+> 🤖 I'm also exploring Generative AI, Agentic AI, RAG, LangChain, LangGraph, LLMs, Embeddings, and Vector Databases to build AI-powered applications that can reason, use tools, retrieve information, and automate complex workflows
 
 ---
 
