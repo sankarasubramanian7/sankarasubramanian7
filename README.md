@@ -40,6 +40,17 @@ I'm a passionate Full-Stack & AI Developer focused on building scalable, intelli
 ### Mobile  
 ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 
+### Agentic AI
+![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-%231C3C3C.svg?style=for-the-badge&logo=langgraph&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-%23DC244C.svg?style=for-the-badge&logo=qdrant&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Geospatial
+![ArcGIS](https://img.shields.io/badge/ArcGIS-%2321A366.svg?style=for-the-badge&logo=arcgis&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-%2341619C.svg?style=for-the-badge&logo=postgis&logoColor=white)
+
 ### Tools & IDEs  
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
