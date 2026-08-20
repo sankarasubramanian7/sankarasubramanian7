@@ -1,8 +1,8 @@
 # 🌟 Hello, I'm Sankarasubramanian!
 
-I'm a passionate Full-Stack & AI Developer focused on building scalable, intelligent applications using Python, FastAPI, Node.js, React, TypeScript, PostgreSQL, and modern AI technologies. I enjoy solving real-world problems through clean, maintainable code, robust APIs, and intuitive UI/UX
+### I'm a passionate Full-Stack & AI Developer focused on building scalable, intelligent applications using Python, FastAPI, Node.js, React, TypeScript, PostgreSQL, and modern AI technologies. I enjoy solving real-world problems through clean, maintainable code, robust APIs, and intuitive UI/UX
 
-> 🤖 I'm also exploring Generative AI, Agentic AI, RAG, LangChain, LangGraph, LLMs, Embeddings, and Vector Databases to build AI-powered applications that can reason, use tools, retrieve information, and automate complex workflows
+### > 🤖 I'm also exploring Generative AI, Agentic AI, RAG, LangChain, LangGraph, LLMs, Embeddings, and Vector Databases to build AI-powered applications that can reason, use tools, retrieve information, and automate complex workflows
 
 ---
 
